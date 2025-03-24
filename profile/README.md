@@ -1,6 +1,13 @@
-## Hi there 👋
 
-Promtion
+
+# Machine Learning Statistics
+
+- Plasma Array Structures
+- Plasma Array Convolutions
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/8b9b8669-aad5-4bdd-b782-8dc3ede8f4cc)
 
